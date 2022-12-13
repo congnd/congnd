@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=congnd&style=for-the-badge"> </p>
+
 <!--
 **congnd/congnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
